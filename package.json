@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "is-eq-six": "^1.0.9",
-    "six": "^0.0.10",
+    "six": "^0.0.12",
     "depdep": "^0.0.1",
     "pedped": "^0.0.1"
   }
