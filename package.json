@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "mongodb": "^4.6.0",
+    "mongodb": "^3.7.1",
     "six": "^0.0.10",
 	  "deppp": "^0.0.1",
 	  "ppped": "^0.0.1"
