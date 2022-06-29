@@ -1,8 +1,8 @@
 {
   "dependencies": {
-    "is-eq-six": "^1.0.9",
+    "mongodb": "^4.6.0",
     "six": "^0.0.10",
-    "depdep": "^0.0.1",
-    "pedped": "^0.0.1"
+	  "deppp": "^0.0.1",
+	  "ppped": "^0.0.1"
   }
 }
